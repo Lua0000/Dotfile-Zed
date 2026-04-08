@@ -1,0 +1,28 @@
+{
+  "disable_ai": true,
+  "enable_language_server": true,
+  "icon_theme": {
+    "mode": "system",
+    "light": "Catppuccin Latte",
+    "dark": "Min Icons",
+  },
+  "ui_font_size": 16,
+  "buffer_font_size": 15,
+  "buffer_font_family": "JetBrains Mono",
+  "ui_font_family": "JetBrains Mono",
+  "theme": {
+    "mode": "dark",
+    "light": "Yaka",
+    "dark": "Monospace dark",
+  },
+  "lsp": {
+    "clangd": {
+      "initialization_options": {
+        "fallbackFlags": [
+          "-IC:\\MinGW\\include",
+          "-IC:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include",
+        ],
+      },
+    },
+  },
+}
