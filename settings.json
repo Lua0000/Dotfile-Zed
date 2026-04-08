@@ -3,7 +3,7 @@
   "enable_language_server": true,
   "icon_theme": {
     "mode": "system",
-    "light": "Catppuccin Latte",
+    "light": "Min Icons",
     "dark": "Min Icons",
   },
   "ui_font_size": 16,
@@ -13,7 +13,7 @@
   "theme": {
     "mode": "dark",
     "light": "Yaka",
-    "dark": "Monospace dark",
+    "dark": "Darcula Dark",
   },
   "lsp": {
     "clangd": {
