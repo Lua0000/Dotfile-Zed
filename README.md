@@ -1,1 +1,1 @@
-<img width="1579" height="769" alt="enfeit" src="https://github.com/user-attachments/assets/1bc99339-e1b0-4cdc-8215-3191d446b27d" />
+<img width="1600" height="873" alt="dot" src="https://github.com/user-attachments/assets/b8cceef0-4301-45aa-9428-53d817a6211e" />
